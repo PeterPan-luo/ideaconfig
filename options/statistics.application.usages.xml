@@ -1,0 +1,34 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="StripeButton[Version Control].shown" count="6" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="4" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.help.ixPasteSelected" count="1" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Auto Import" count="1" />
+      <entry feature="ide.settings.Code Completion" count="1" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.Editor Tabs" count="1" />
+      <entry feature="ide.settings.File Encodings" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Maven" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Tomcat Server" count="1" />
+      <entry feature="ideaapp.started" count="5" />
+      <entry feature="project.view.pane.PackagesPane" count="2" />
+      <entry feature="project.view.pane.ProjectPane" count="2" />
+      <entry feature="show.recent.tests.action" count="2" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="3" />
+      <entry feature="uml.ShowDiagram.JAVA" count="5" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="13" />
+      <entry feature="welcome.screen.ConfigureIcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>

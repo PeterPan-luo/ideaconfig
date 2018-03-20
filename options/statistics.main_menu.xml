@@ -1,0 +1,26 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; New -&gt; Module from Existing Sources..." count="3" />
+      <entry path="File -&gt; New -&gt; Module..." count="1" />
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="8" />
+      <entry path="File -&gt; New -&gt; Project..." count="2" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="3" />
+      <entry path="File -&gt; Project Structure..." count="6" />
+      <entry path="File -&gt; Settings..." count="11" />
+      <entry path="Help -&gt; Keymap Reference" count="2" />
+      <entry path="Navigate -&gt; Back" count="3" />
+      <entry path="Navigate -&gt; File Path" count="1" />
+      <entry path="Navigate -&gt; File Structure" count="1" />
+      <entry path="Navigate -&gt; Forward" count="2" />
+      <entry path="Navigate -&gt; Implementation(s)" count="2" />
+      <entry path="Navigate -&gt; Last Edit Location" count="2" />
+      <entry path="Navigate -&gt; Related Symbol..." count="1" />
+      <entry path="Navigate -&gt; Select In..." count="1" />
+      <entry path="Navigate -&gt; Symbol..." count="1" />
+      <entry path="Run -&gt; Edit Configurations..." count="3" />
+      <entry path="View -&gt; Tool Windows -&gt; Maven Projects" count="4" />
+      <entry path="Window -&gt; Restore Default Layout" count="1" />
+    </counts>
+  </component>
+</application>

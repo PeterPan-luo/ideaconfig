@@ -1,0 +1,152 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent" />
+        <option value="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master" />
+        <option value="F:/dev/devWorkSpace/2018/git/learn/zheng" />
+        <option value="F:/dev/devWorkSpace/2018/git/learn/springboot-integration-parent" />
+        <option value="F:/dev/devWorkSpace/2018/git/learn/roncoo-pay" />
+        <option value="F:/dev/devWorkSpace/2018/git/learn/xxpay-master" />
+        <option value="F:/dev/devWorkSpace/2018/git/learn/nest" />
+        <option value="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell" />
+        <option value="F:/dev/training/微服务/Spring Boot企业微信点餐系统/project/r1l5jr/sell" />
+        <option value="F:/dev/devWorkSpace/2018/git/exercise/demo-parent" />
+        <option value="F:/dev/devWorkSpace/2018/git/exercise" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent" />
+      </list>
+    </option>
+    <option name="lastPath" value="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521512048235" />
+              <option name="buildTimestamp" value="1517264937401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/exercise">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519870718169" />
+              <option name="buildTimestamp" value="1517264892405" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/exercise/demo-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520316115023" />
+              <option name="buildTimestamp" value="1517264903233" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/learn/nest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521165161497" />
+              <option name="buildTimestamp" value="1517264937401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/learn/roncoo-pay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521191829926" />
+              <option name="buildTimestamp" value="1517264937401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/learn/springboot-integration-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521443109751" />
+              <option name="buildTimestamp" value="1517264937401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/learn/xxpay-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521186978719" />
+              <option name="buildTimestamp" value="1517264937401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/learn/zheng">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521451337747" />
+              <option name="buildTimestamp" value="1517264937401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521496853343" />
+              <option name="buildTimestamp" value="1517264937401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/training/微服务/Spring Boot企业微信点餐系统/project/r1l5jr/sell">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520316382349" />
+              <option name="buildTimestamp" value="1517264903233" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520413418446" />
+              <option name="buildTimestamp" value="1517264903233" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="F:/dev/devWorkSpace/2018/git/分布式事务" />
+  </component>
+</application>

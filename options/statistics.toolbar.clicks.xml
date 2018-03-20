@@ -1,0 +1,18 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CheckinProject@NavBarToolbar" count="1" />
+      <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="2" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="5" />
+      <entry action="Stop@RunnerToolbar" count="1" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="1" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="2" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$6@KeymapEdit" count="3" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$8@Keymap" count="5" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="7" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="8" />
+    </counts>
+  </component>
+</application>

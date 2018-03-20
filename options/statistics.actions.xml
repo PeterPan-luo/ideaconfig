@@ -1,0 +1,123 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Cut" count="2" />
+      <entry action="$Delete" count="19" />
+      <entry action="$SelectAll" count="18" />
+      <entry action="$Undo" count="25" />
+      <entry action="AceAction" count="22" />
+      <entry action="AceLineAction" count="11" />
+      <entry action="AceTargetAction" count="2" />
+      <entry action="ActivateFavoritesToolWindow" count="1" />
+      <entry action="ActivateMavenProjectsToolWindow" count="4" />
+      <entry action="ActivateProjectToolWindow" count="5" />
+      <entry action="ActivateStructureToolWindow" count="3" />
+      <entry action="ActivateTODOToolWindow" count="2" />
+      <entry action="ActivateVersionControlToolWindow" count="1" />
+      <entry action="Add  value= " count="1" />
+      <entry action="Add exception to method signature" count="3" />
+      <entry action="Back" count="109" />
+      <entry action="ChangeSignature" count="1" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="CloseContent" count="1" />
+      <entry action="CommentByLineComment" count="1" />
+      <entry action="ContextHelp" count="1" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="CopyReference" count="2" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="EditorBackSpace" count="356" />
+      <entry action="EditorChooseLookupItem" count="201" />
+      <entry action="EditorCodeBlockEnd" count="3" />
+      <entry action="EditorCodeBlockStart" count="3" />
+      <entry action="EditorCompleteStatement" count="2" />
+      <entry action="EditorContextInfo" count="2" />
+      <entry action="EditorCopy" count="67" />
+      <entry action="EditorCut" count="5" />
+      <entry action="EditorDeleteLine" count="2" />
+      <entry action="EditorDown" count="146" />
+      <entry action="EditorDuplicate" count="5" />
+      <entry action="EditorEnter" count="97" />
+      <entry action="EditorEscape" count="8" />
+      <entry action="EditorLeft" count="41" />
+      <entry action="EditorLineEnd" count="3" />
+      <entry action="EditorPaste" count="72" />
+      <entry action="EditorRight" count="90" />
+      <entry action="EditorSplitLine" count="22" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorStartNewLineBefore" count="3" />
+      <entry action="EditorTab" count="23" />
+      <entry action="EditorToggleCase" count="1" />
+      <entry action="EditorUp" count="73" />
+      <entry action="FileStructurePopup" count="14" />
+      <entry action="Find" count="1" />
+      <entry action="FindInPath" count="7" />
+      <entry action="FindUsages" count="7" />
+      <entry action="Forward" count="11" />
+      <entry action="Generate" count="10" />
+      <entry action="Generate overloaded method with default parameter values" count="1" />
+      <entry action="GotoAction" count="12" />
+      <entry action="GotoBookmark1" count="1" />
+      <entry action="GotoBookmark2" count="3" />
+      <entry action="GotoClass" count="4" />
+      <entry action="GotoDeclaration" count="112" />
+      <entry action="GotoFile" count="2" />
+      <entry action="GotoImplementation" count="132" />
+      <entry action="GotoRelated" count="1" />
+      <entry action="GotoSuperMethod" count="1" />
+      <entry action="GotoSymbol" count="2" />
+      <entry action="GotoTypeDeclaration" count="8" />
+      <entry action="Help.KeymapReference" count="2" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="HippieCompletion" count="2" />
+      <entry action="Implement methods" count="1" />
+      <entry action="Import class" count="2" />
+      <entry action="ImportModule" count="3" />
+      <entry action="ImportProject" count="8" />
+      <entry action="InsertLiveTemplate" count="1" />
+      <entry action="Introduce local variable" count="1" />
+      <entry action="IntroduceConstant" count="1" />
+      <entry action="IntroduceVariable" count="12" />
+      <entry action="JumpToLastChange" count="3" />
+      <entry action="JumpToLastWindow" count="1" />
+      <entry action="MarkExcludeRoot" count="1" />
+      <entry action="Maven.AddManagedFiles" count="2" />
+      <entry action="Maven.ReimportProject" count="1" />
+      <entry action="MethodDown" count="1" />
+      <entry action="NewClass" count="1" />
+      <entry action="NewElement" count="8" />
+      <entry action="NewElementSamePlace" count="6" />
+      <entry action="NewFile" count="2" />
+      <entry action="NewModule" count="1" />
+      <entry action="NewModuleInGroup" count="16" />
+      <entry action="NewProject" count="2" />
+      <entry action="OptimizeImports" count="4" />
+      <entry action="OverrideMethods" count="5" />
+      <entry action="ParameterInfo" count="14" />
+      <entry action="PasteMultiple" count="12" />
+      <entry action="QuickJavaDoc" count="3" />
+      <entry action="RecentChanges" count="1" />
+      <entry action="RecentFiles" count="5" />
+      <entry action="RestoreDefaultLayout" count="1" />
+      <entry action="RevealIn" count="3" />
+      <entry action="RunClass" count="4" />
+      <entry action="SaveAll" count="19" />
+      <entry action="SelectIn" count="1" />
+      <entry action="ShowFilePath" count="1" />
+      <entry action="ShowIntentionActions" count="50" />
+      <entry action="ShowProjectStructureSettings" count="11" />
+      <entry action="ShowRecentTests" count="2" />
+      <entry action="ShowSettings" count="13" />
+      <entry action="ShowUmlDiagram" count="6" />
+      <entry action="ShowUmlDiagramPopup" count="13" />
+      <entry action="SmartTypeCompletion" count="2" />
+      <entry action="SplitVertically" count="1" />
+      <entry action="Stop" count="1" />
+      <entry action="Switcher" count="3" />
+      <entry action="TypeHierarchy" count="9" />
+      <entry action="Vcs.UpdateProject" count="3" />
+      <entry action="VimPluginToggle" count="62" />
+      <entry action="editRunConfigurations" count="3" />
+    </counts>
+  </component>
+</application>

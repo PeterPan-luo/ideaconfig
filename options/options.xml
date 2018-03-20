@@ -1,0 +1,35 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.173" value="13" />
+    <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1520480106210" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="ideavim.statistics.timestamp" value="1521421674281" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="file.chooser.recent.files" value="F:/dev/tools/apache/apache-tomcat-7.0.65_rc&#10;F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master/coolmq/pom.xml&#10;F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master&#10;F:/dev/devWorkSpace/2018/git/learn/zheng&#10;F:/dev/devWorkSpace/2018/git/learn/weixin-java-tools/weixin-java-mp-demo-springboot&#10;F:/dev/devWorkSpace/2018/git/learn/best-pay-sdk&#10;F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell&#10;F:/dev/devWorkSpace/2018/git/learn/roncoo-pay/roncoo-pay-web-sample-shop/pom.xml&#10;F:/dev/devWorkSpace/2018/git/learn/roncoo-pay&#10;F:/dev/devWorkSpace/2018/git/learn/xxpay-master&#10;F:/dev/devWorkSpace/2018/git/learn/nest&#10;F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent&#10;F:/dev/training/微服务/Spring Boot企业微信点餐系统/project/r1l5jr/sell&#10;F:/dev/devWorkSpace/2018/git/exercise&#10;F:/dev/tools/jdk/jdk1.8.0_91&#10;F:/dev/devRepository/settings.xml" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ts.lib.d.ts.version" value="2.6.2" />
+    <property name="lastTip" value="5" />
+    <property name="file.gist.reindex.count" value="4462" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="last.imported.location" value="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="KEYMAP" value="" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="PLUGIN_FILTER" value="lombok&#10;AceJump" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6106322" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+  </component>
+</application>
