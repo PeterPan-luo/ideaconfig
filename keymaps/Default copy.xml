@@ -15,6 +15,10 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -25,6 +29,7 @@
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>

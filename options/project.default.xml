@@ -14,7 +14,7 @@
         </option>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
       </component>
       <component name="masterDetails">
@@ -22,6 +22,17 @@
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

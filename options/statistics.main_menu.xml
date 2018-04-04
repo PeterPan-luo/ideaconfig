@@ -1,13 +1,16 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
+      <entry path="File -&gt; Import Settings..." count="3" />
       <entry path="File -&gt; New -&gt; Module from Existing Sources..." count="3" />
       <entry path="File -&gt; New -&gt; Module..." count="1" />
-      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="8" />
-      <entry path="File -&gt; New -&gt; Project..." count="2" />
-      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="3" />
-      <entry path="File -&gt; Project Structure..." count="6" />
-      <entry path="File -&gt; Settings..." count="11" />
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="12" />
+      <entry path="File -&gt; New -&gt; Project..." count="6" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="11" />
+      <entry path="File -&gt; Open..." count="1" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="2" />
+      <entry path="File -&gt; Project Structure..." count="7" />
+      <entry path="File -&gt; Settings..." count="24" />
       <entry path="Help -&gt; Keymap Reference" count="2" />
       <entry path="Navigate -&gt; Back" count="3" />
       <entry path="Navigate -&gt; File Path" count="1" />

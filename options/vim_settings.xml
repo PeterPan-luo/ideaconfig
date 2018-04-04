@@ -3,23 +3,8 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/engine/RouterEngineConfig.java" timestamp="1521081474150" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/pom.xml" timestamp="1521429161959" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-client/src/main/java/com/zheng/upms/client/shiro/realm/UpmsRealm.java" timestamp="1521447587658" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/best-pay-sdk/src/main/java/com/lly835/bestpay/service/BestPayService.java" timestamp="1521428007476" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/config/WechatOpenConfig.java" timestamp="1521428874153" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/config/WechatPayConfig.java" timestamp="1521428924689" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/route/service/Functions.java" timestamp="1520926306839" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/core/Router.java" timestamp="1521106802805" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/nest/nest-plugins/nest-rabbitmq/src/main/java/com/jovezhao/nest/rabbitmq/RabbitMQChannelProvider.java" timestamp="1521161730032" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/handler/SellExceptionHandler.java" timestamp="1521428780041" />
-      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/2.9.6.BETA/weixin-java-mp-2.9.6.BETA.jar!/me/chanjar/weixin/mp/api/WxMpMessageRouter.class" timestamp="1521430199604" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-demo/zheng-demo-rpc-api/src/main/java/com/zheng/demo/rpc/api/DemoServiceMock.java" timestamp="1521450859286" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/chinapay/ChinapayRechargeBillBatch.java" timestamp="1521018199620" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/trade/AbstractWithdrawCommitBatchHandler.java" timestamp="1521007763582" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/nest/nest-plugins/nest-rabbitmq/src/main/java/com/jovezhao/nest/rabbitmq/RebbitMQEventConsumer.java" timestamp="1521161813000" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/callback/newpay/impl/ExpressPayCallBackImpl.java" timestamp="1520924770871" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/ProductInfo.java" timestamp="1521426662073" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java" timestamp="1522200727722" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" timestamp="1522200626588" />
       <file name="F:/dev/devWorkSpace/2018/git/learn/springboot-integration-parent/mm-dao/src/main/java/com/study/mmdao/config/DataSourceConfig.java" timestamp="1521179790317">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -31,117 +16,27 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/checkbills/baofoo/BaofooChannelBillServiceImpl.java" timestamp="1520931121758" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/config/WechatAccountConfig.java" timestamp="1521428828361" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/trade/WithdrawCommitBatch.java" timestamp="1521007116690" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/bindcard/impl/BindCardServiceImpl.java" timestamp="1521084477931" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/handler/core/bestpay/BindCardConfirmBestPayHandler.java" timestamp="1521084705796" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/core/Interface.java" timestamp="1521106747223" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/trade/FailTradeCheckMonitorBatch.java" timestamp="1521007083456" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-app/src/main/java/com/hjs/pay/app/allinpay/service/impl/BindCardAuthServiceImpl.java" timestamp="1521424209890" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/PayServiceImpl.java" timestamp="1521426972176" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-api/zheng-api-server/src/main/java/com/zheng/api/server/controller/TestController.java" timestamp="1521444023202" />
-      <file name="$MAVEN_REPOSITORY$/cn/springboot/best-pay-sdk/1.1.0/best-pay-sdk-1.1.0.jar!/com/lly835/bestpay/service/impl/BestPayServiceImpl.class" timestamp="1521427020487" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/resources/spring-context.xml" timestamp="1521012169628" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/service/impl/RuntimeServiceImpl.java" timestamp="1521501479023" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/rule/BindCardRuleExecutor.java" timestamp="1521422266640" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/rule/FeeRuleExecutor.java" timestamp="1521078620089" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/route/service/impl/InterfaceChannelServiceImpl.java" timestamp="1521083123696" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-server/src/main/java/com/zheng/upms/server/controller/manage/UpmsSystemController.java" timestamp="1521446107256" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-common-business/src/main/java/com/hjs/pay/business/handler/ChannelHandler.java" timestamp="1521085578575" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/engine/RouterEngine.java" timestamp="1521422746183" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/checkbills/AbstractCheckBillsService.java" timestamp="1520931288982" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/polling/PollingBindCardBatch.java" timestamp="1520913449569" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/weixin-java-tools/weixin-java-mp-demo-springboot/src/main/java/com/github/binarywang/demo/wechat/builder/ImageBuilder.java" timestamp="1521429927132" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/event/RouterFinishEvent.java" timestamp="1521097146115" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/extension/AspceJInterceptor.java" timestamp="1520908601140" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/handler/BindCardChannelHandler.java" timestamp="1521422832263" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class" timestamp="1522200219348" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class" timestamp="1522200319931" />
       <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/engine/DefaultRouterEngine.java" timestamp="1521499228990">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="14" column="4" />
         <mark key="." line="43" column="97" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/core/Rule.java" timestamp="1521501132630" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/handler/core/allinpay/BindCardAllinPayHandler.java" timestamp="1521423930540" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/best-pay-sdk/src/main/java/com/lly835/bestpay/service/impl/WxPayServiceImpl.java" timestamp="1521428086556" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-client/src/main/resources/applicationContext-shiro.xml" timestamp="1521446258840" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/weixin-java-tools/weixin-java-mp-demo-springboot/src/main/java/com/github/binarywang/demo/wechat/handler/MenuHandler.java" timestamp="1521440225582" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-client/src/main/java/com/zheng/upms/client/shiro/session/UpmsSession.java" timestamp="1521447614204" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/weixin-java-tools/weixin-java-mp-demo-springboot/src/main/java/com/github/binarywang/demo/wechat/handler/AbstractHandler.java" timestamp="1521430027236" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-demo/zheng-demo-web/src/main/java/com/zheng/demo/web/interceptor/DemoInterceptor.java" timestamp="1521450902910" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-server/src/main/java/com/zheng/upms/server/controller/manage/UpmsOrganizationController.java" timestamp="1521444461958" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/trade/impl/TradeInfoServiceImpl.java" timestamp="1521422814335" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/polling/PollingAuthBatch.java" timestamp="1520925880633" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/bill/AccountBillsTask.java" timestamp="1521018192032" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/checkbills/chinapay/AbstractChannelBillService.java" timestamp="1520931276516" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/springboot-integration-parent/mm-dao/src/main/java/com/study/mmdao/config/DynamicDataSource.java" timestamp="1521179299326" />
-      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/2.9.6.BETA/weixin-java-mp-2.9.6.BETA.jar!/me/chanjar/weixin/mp/api/WxMpMessageHandler.class" timestamp="1521430030620" />
-      <file name="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master/microservice-message-provider/pom.xml" timestamp="1521451460395" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/rule/PrioritiesRuleExecutor.java" timestamp="1521422043386" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/best-pay-sdk/src/main/java/com/lly835/bestpay/model/wxpay/request/WxPayRefundRequest.java" timestamp="1521427918308" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/trade/impl/TradeHandler.java" timestamp="1521083979821" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-client/src/main/java/com/zheng/upms/client/shiro/session/UpmsSessionDao.java" timestamp="1521447661898" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-client/src/main/java/com/zheng/upms/client/shiro/session/UpmsSessionFactory.java" timestamp="1521446187703" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-pay/zheng-pay-web/src/main/java/com/zheng/pay/web/controller/AlipayController.java" timestamp="1521444273623" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/event/RouterStartEvent.java" timestamp="1521097136651" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/checkbills/impl/AllinpayFastBillsServiceImpl.java" timestamp="1520931895338" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-client/src/main/java/com/zheng/upms/client/shiro/filter/UpmsAuthenticationFilter.java" timestamp="1521447535515" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.4.RELEASE/spring-context-5.0.4.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1522200616284" />
       <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/trade/impl/NewPayTradeHandlerImpl.java" timestamp="1521084442067">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/controller/PayController.java" timestamp="1521428619361" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/trade/WithdrawCommitBatchServiceImpl.java" timestamp="1521007257166" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/AbstractCheckBillsTask.java" timestamp="1520925851961" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/controller/WechatController.java" timestamp="1521428750610" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-server/src/main/java/com/zheng/upms/server/controller/manage/UpmsUserController.java" timestamp="1521445816145" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/config/ProjectUrlConfig.java" timestamp="1521428814689" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/trade/impl/CheckWithdrawServiceImpl.java" timestamp="1521083937718" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/engine/RouterEngineConfigImpl.java" timestamp="1521422661072" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/best-pay-sdk/src/main/java/com/lly835/bestpay/model/wxpay/WxPayApi.java" timestamp="1521427963037" />
-      <file name="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master/coolmq/src/main/java/com/coolmq/amqp/config/RedisConfig.java" timestamp="1521451690666" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/baofoo/BaofooRechargeBillsBatch.java" timestamp="1520919623369" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/service/RuntimeService.java" timestamp="1521499480738" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/listener/TradeRouterListener.java" timestamp="1521097216852" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/trade/impl/AbstractTradeHandler.java" timestamp="1521083999589" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-upms/zheng-upms-client/src/main/java/com/zheng/upms/client/interceptor/LogAspect.java" timestamp="1521447513610" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-common/src/main/java/com/hjs/pay/common/support/BaseDomain.java" timestamp="1521158095363" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/rule/ChannelBindCardRuleExecutor.java" timestamp="1521422137906" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1522200834273" />
       <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/callback/newpay/impl/BindCardCallBackImpl.java" timestamp="1520924735293">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="F:/dev/devWorkSpace/2018/git/learn/weixin-java-tools/weixin-java-mp-demo-springboot/src/main/java/com/github/binarywang/demo/wechat/builder/AbstractBuilder.java" timestamp="1521429922956" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/zheng/zheng-oss/zheng-oss-web/src/main/java/com/zheng/oss/web/controller/AliyunOssController.java" timestamp="1521444185640" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/serializer/Date2LongSerializer.java" timestamp="1521426727864" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/controller/BuyerOrderController.java" timestamp="1521428546720" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/route/service/InterfaceChannelService.java" timestamp="1521084549268" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/resources/spring-context.xml" timestamp="1521019110954" />
-      <file name="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master/coolmq/src/main/java/com/coolmq/amqp/util/RabbitMetaMessage.java" timestamp="1521451934066" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/config/WechatMpConfig.java" timestamp="1521428838177" />
-      <file name="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master/coolmq/src/main/java/com/coolmq/amqp/sender/RabbitSender.java" timestamp="1521451852011" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/aspect/ExceptionAspect.java" timestamp="1520908411212" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/nest/nest-ddd/src/main/java/com/jovezhao/nest/ddd/event/ProviderConfig.java" timestamp="1521161696680" />
-      <file name="F:/dev/training/微服务/Spring Boot企业微信点餐系统/weixin-sell-sell-master/sell/src/main/java/com/imooc/controller/WeixinController.java" timestamp="1521428694097" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-app/src/main/java/com/hjs/pay/app/allinpay/util/TlSecurityHelper.java" timestamp="1521424223938" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/weixin-java-tools/weixin-java-mp-demo-springboot/src/main/java/com/github/binarywang/demo/wechat/handler/SubscribeHandler.java" timestamp="1521430066364" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-frontend/src/main/java/com/hjs/pay/frontend/impl/FrontendIntServiceImpl.java" timestamp="1520924133576" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/listener/RouterListener.java" timestamp="1521097155755" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/polling/PollingTradeBatch.java" timestamp="1521007809757" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/kftpay/KftpayCheckBillsTask.java" timestamp="1521018233605" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/handler/core/newpay/BindCardConfirmNewPayHandler.java" timestamp="1521084647322" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-router/src/main/java/com/hjs/pay/router/rule/QuotaRuleExecutor.java" timestamp="1521422004801" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/weixin-java-tools/weixin-java-mp-demo-springboot/src/main/java/com/github/binarywang/demo/wechat/builder/TextBuilder.java" timestamp="1521429937533" />
-      <file name="F:/dev/devWorkSpace/2018/git/learn/nest/nest-plugins/nest-rabbitmq/src/main/java/com/jovezhao/nest/rabbitmq/RabbitMQEventProducer.java" timestamp="1521161736410" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-common-dao/src/main/java/com/hjs/pay/dao/route/InterfaceChannelDao.java" timestamp="1521499759306" />
-      <file name="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master/coolmq/src/main/java/demo/BizMessageListener.java" timestamp="1521451950676" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-batch/src/main/java/com/hjs/pay/quarz/polling/PollingTradeServiceImpl.java" timestamp="1521008111141" />
-      <file name="F:/dev/devWorkSpace/2018/git/分布式事务/coolmq-master/coolmq/src/main/java/com/coolmq/amqp/listener/AbstractMessageListener.java" timestamp="1521451921010" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-service/src/main/java/com/hjs/pay/service/checkbills/chinapay/ChinapayRechargeBillServiceImpl.java" timestamp="1520931482108" />
-      <file name="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent/pay-frontend/src/main/java/com/hjs/pay/frontend/service/PayCallBackService.java" timestamp="1520924848237" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" timestamp="1522200567675" />
     </filemarks>
     <jumps />
     <registers>
