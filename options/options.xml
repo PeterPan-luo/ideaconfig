@@ -35,8 +35,9 @@
     <property name="JUnit.Splitter.Proportion" value="0.15591966" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="LiveContextsPanel[0]" value="0.10735373" />
-    <property name="selected.color.option.type" value="FOLDED_TEXT_ATTRIBUTES" />
+    <property name="selected.color.option.type" value="INJECTED_LANGUAGE_FRAGMENT" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.10840108" />
     <property name="ColorChooser.RecentColors" value="199-237-204-255" />
+    <property name="SearchEveryWhereHistory" value="" />
   </component>
 </application>

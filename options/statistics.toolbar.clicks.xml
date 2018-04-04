@@ -2,17 +2,19 @@
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="CheckinProject@NavBarToolbar" count="1" />
+      <entry action="Debug@NavBarToolbar" count="9" />
       <entry action="ForceStepInto@DebuggerToolbar" count="31" />
       <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="6" />
+      <entry action="Maven.ShowSettings@Maven Navigator Toolbar" count="1" />
       <entry action="Rerun@RunnerToolbar" count="1" />
-      <entry action="Resume@DebuggerToolbar" count="11" />
-      <entry action="Run@NavBarToolbar" count="66" />
+      <entry action="Resume@DebuggerToolbar" count="32" />
+      <entry action="Run@NavBarToolbar" count="72" />
       <entry action="ShowExecutionPoint@DebuggerToolbar" count="2" />
       <entry action="ShowProjectStructureSettings@NavBarToolbar" count="5" />
       <entry action="StepInto@DebuggerToolbar" count="7" />
       <entry action="StepOut@DebuggerToolbar" count="16" />
       <entry action="StepOver@DebuggerToolbar" count="18" />
-      <entry action="Stop@NavBarToolbar" count="1" />
+      <entry action="Stop@NavBarToolbar" count="13" />
       <entry action="Stop@RunnerToolbar" count="4" />
       <entry action="UML.ActualSize@Diagrams" count="1" />
       <entry action="Vcs.UpdateProject@NavBarToolbar" count="1" />
@@ -27,7 +29,7 @@
       <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="1" />
       <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="7" />
       <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="3" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="16" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="19" />
     </counts>
   </component>
 </application>
