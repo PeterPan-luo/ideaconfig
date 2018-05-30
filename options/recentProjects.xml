@@ -2,11 +2,16 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="F:/dev/devWorkSpace/2018/git/bigdata/spark-project" />
+        <option value="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/branches/pay_5.2.6/pay-common-parent" />
+        <option value="F:/dev/devWorkSpace/2018/git/learn/springboot-integration-parent" />
+        <option value="F:/dev/devWorkSpace/2018/hysams/work/02-src/trunk/b-oper-parent" />
         <option value="F:/dev/devWorkSpace/2018/scs/SourceCodes/trunk/scs-parent" />
+        <option value="F:/dev/devWorkSpace/2018/scs/SourceCodes/trunk/scs-parent/scs-admin-parent/scs-permission-web" />
+        <option value="F:/dev/devWorkSpace/2018/git/learn/incubator-dubbo-spring-boot-project" />
         <option value="F:/dev/devWorkSpace/2018/git/learn/Mapper" />
         <option value="F:/dev/devWorkSpace/2018/git/learn/spring-boot-starter" />
         <option value="F:/dev/devWorkSpace/2018/大宗供应链/code/scs-parent" />
-        <option value="F:/dev/devWorkSpace/2018/git/learn/springboot-integration-parent" />
         <option value="F:/dev/devWorkSpace/2018/大宗供应链/code/b-oper-parent" />
         <option value="F:/dev/devWorkSpace/2018/git/learn/shiro-spring-boot-starter" />
         <option value="F:/dev/devWorkSpace/2018/git/SpringBoot-master" />
@@ -24,13 +29,24 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="F:/dev/devWorkSpace/2018/scs/SourceCodes/trunk/scs-parent" />
+        <option value="F:/dev/devWorkSpace/2018/git/bigdata/spark-project" />
       </list>
     </option>
-    <option name="lastPath" value="F:/dev/devWorkSpace/2018/scs/SourceCodes/trunk/scs-parent" />
+    <option name="lastPath" value="F:/dev/devWorkSpace/2018/git/bigdata/spark-project" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/branches/pay_5.2.6/pay-common-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526007806969" />
+              <option name="buildTimestamp" value="1517264900761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="F:/dev/devWorkSpace/2017/b2c_pay/SourceCodes/trunk/pay-common-parent">
           <value>
             <RecentProjectMetaInfo>
@@ -50,6 +66,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1521595399240" />
               <option name="buildTimestamp" value="1517264898290" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/bigdata/spark-project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527670087959" />
+              <option name="buildTimestamp" value="1517264900031" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -83,6 +110,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1522807783203" />
               <option name="buildTimestamp" value="1517264890745" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/git/learn/incubator-dubbo-spring-boot-project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523149452577" />
+              <option name="buildTimestamp" value="1517264914167" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -136,8 +174,8 @@
               <option name="build" value="IU-173.4548.28" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1522660736980" />
-              <option name="buildTimestamp" value="1517264923383" />
+              <option name="projectOpenTimestamp" value="1525940473825" />
+              <option name="buildTimestamp" value="1517264900761" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -174,14 +212,47 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="F:/dev/devWorkSpace/2018/hysams/work/02-src/trunk/b-oper-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525608614817" />
+              <option name="buildTimestamp" value="1517264900376" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="F:/dev/devWorkSpace/2018/scs/SourceCodes/trunk/scs-parent">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-173.4548.28" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1522831021823" />
-              <option name="buildTimestamp" value="1517264914167" />
+              <option name="projectOpenTimestamp" value="1525594726880" />
+              <option name="buildTimestamp" value="1517264900376" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/scs/SourceCodes/trunk/scs-parent/scs-admin-parent/scs-permission-web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524015245692" />
+              <option name="buildTimestamp" value="1517264937055" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/dev/devWorkSpace/2018/创新项目/work/02-src/trunk/hysams-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524801063849" />
+              <option name="buildTimestamp" value="1517264911332" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -242,6 +313,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="F:/dev/devWorkSpace/2018/git/learn" />
+    <option name="lastProjectLocation" value="F:/dev/devWorkSpace/2018/git/bigdata" />
   </component>
 </application>
